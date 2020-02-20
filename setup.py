@@ -6,5 +6,7 @@ setup(name = 'catanalysis',
       author='Okechukwu Okigbo',
       author_email='okigbookey@gmail.com',
       packages=['catanalysis'], 
-      install_requires=[], 
+      install_requires=['matplotlib',
+                          'numpy',
+                          'pandas'], 
       zip_safe = False)
