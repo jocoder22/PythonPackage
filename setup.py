@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name = 'catanalysis',
+setup(name = 'printdescribe',
       version = '0.1.0',
-      description = 'Categorical Analysis',
+      description = 'Print and describe',
       author='Okechukwu Okigbo',
       author_email='okigbookey@gmail.com',
-      packages=['catanalysis'], 
+      packages=['printdescribe'], 
       install_requires=['matplotlib',
                           'numpy',
                           'pandas'], 

@@ -1,7 +1,0 @@
-# this specify the to source for installation
---index-util https://pypi.python.org/simple/
-
-# These are required packages and their version
-matplotlib
-numpy
-pandas
