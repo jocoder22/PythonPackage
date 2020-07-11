@@ -2,8 +2,8 @@
 --index-util https://pypi.python.org/simple/
 
 # These are required packages and their version
-matplotlib
 numpy
 pandas
+matplotlib
 tabulate
 os
