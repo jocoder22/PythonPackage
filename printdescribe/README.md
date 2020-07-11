@@ -23,12 +23,12 @@ The package describe2 uses the describe function to output descriptive statistic
  
 
 ## GitHub files
- * printdesc.py
-      - 
+* printdesc.py
+   - 
 * requirements.txt
-      - 
+   - 
 * LICENSE.txt
-      - 
+   - 
     
 ## Github repository 
 Github repository at this [link](https://github.com/jocoder22/PythonPackage)
