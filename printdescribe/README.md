@@ -23,7 +23,7 @@ The package describe2 uses the describe function to output descriptive statistic
  
 
 ## GitHub files
-* printdesc.py
+* **printdesc.py**
    - 
 * requirements.txt
    - 
